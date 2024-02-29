@@ -1,4 +1,4 @@
-package week3;
+package week2;
 class Employee1 {
 	String empName;
 	int empNo;
